@@ -1,0 +1,25 @@
+{
+  "site": "maltashoreexcursion.com",
+  "downloaded": 18,
+  "files": [
+    "hero-home.jpg",
+    "og-default.jpg",
+    "cruise-port.jpg",
+    "valletta.jpg",
+    "mdina.jpg",
+    "three-cities.jpg",
+    "blue-grotto.jpg",
+    "marsaxlokk.jpg",
+    "gozo.jpg",
+    "temples.jpg",
+    "food.jpg",
+    "harbour.jpg",
+    "fortifications.jpg",
+    "walking.jpg",
+    "compare.jpg",
+    "family.jpg",
+    "private.jpg",
+    "war-history.jpg"
+  ],
+  "note": "Master images sourced from Wikimedia Commons (CC-licensed). See scripts/download-malta-images.mjs."
+}

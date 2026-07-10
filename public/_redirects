@@ -1,0 +1,4 @@
+# Canonical domain: maltashoreexcursion.com (singular)
+https://www.maltashoreexcursion.com/* https://maltashoreexcursion.com/:splat 301
+http://www.maltashoreexcursion.com/* https://maltashoreexcursion.com/:splat 301
+http://maltashoreexcursion.com/* https://maltashoreexcursion.com/:splat 301
