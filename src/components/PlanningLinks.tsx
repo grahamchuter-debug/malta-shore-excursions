@@ -3,6 +3,7 @@ import Link from "next/link";
 const LINKS = [
   { href: "/port-guide", label: "Malta Port Guide" },
   { href: "/cruise-planner", label: "Malta Cruise Planner" },
+  { href: "/ship-schedules", label: "Ship Schedules" },
   { href: "/your-day-ashore", label: "Your Day Ashore" },
   { href: "/compare", label: "Compare Malta" },
   { href: "/shore-excursions", label: "Shore Excursions" },

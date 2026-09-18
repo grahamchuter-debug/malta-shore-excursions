@@ -1,0 +1,56 @@
+{
+  "generatedAt": "2026-09-18T07:24:51.214Z",
+  "wave": "wave-1c",
+  "port": "malta",
+  "destSlug": "malta",
+  "displayName": "Malta (Valletta / Grand Harbour)",
+  "portIdentityNote": "Port identity = Valletta / Grand Harbour where supported",
+  "minPublishRows": 15,
+  "counts": {
+    "2026": 172,
+    "2027": 350,
+    "2028_discovery": 226,
+    "2028_published": 42,
+    "public_total": 563
+  },
+  "partial2026": true,
+  "filter2028": {
+    "decision": "PUBLISH",
+    "reason": "validated 42 >= MIN_PUBLISH_ROWS 15 — publish validated only; held 184 restricted/unvalidated",
+    "validatedCount": 42,
+    "tier2AzamaraVenice": 0
+  },
+  "timeCompleteness": {
+    "2026": {
+      "total": 172,
+      "arrival": 143,
+      "departure": 135,
+      "both": 135,
+      "neither": 29,
+      "pctBoth": 78.5
+    },
+    "2027": {
+      "total": 350,
+      "arrival": 282,
+      "departure": 278,
+      "both": 277,
+      "neither": 67,
+      "pctBoth": 79.1
+    },
+    "2028": {
+      "total": 42,
+      "arrival": 42,
+      "departure": 41,
+      "both": 41,
+      "neither": 0,
+      "pctBoth": 97.6
+    }
+  },
+  "berthPolicy": "unknown — no generic terminals published",
+  "contaminationPurged": [],
+  "wireSchedulesTs": {
+    "wired": true,
+    "reason": "already imports json"
+  },
+  "placeholderPurged": true
+}

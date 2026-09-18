@@ -9,6 +9,7 @@ const navItems = [
   { href: "/shore-excursions", label: "Excursions" },
   { href: "/port-guide", label: "Port Guide" },
   { href: "/cruise-planner", label: "Plan" },
+  { href: "/ship-schedules", label: "Schedules" },
   { href: "/your-day-ashore", label: "Your Day Ashore" },
   { href: "/compare", label: "Compare" },
   { href: "/guides", label: "Guides" },
